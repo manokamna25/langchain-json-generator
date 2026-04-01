@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # 🤖 AI-Powered Structured Output Engine 🚀
 
 <div align="center">
@@ -96,4 +96,4 @@ cd client && npm run dev
   <p>Made with ❤️ and TypeScript</p>
   <sub>Happy Coding! 🚀</sub>
 </div>
-EOF
+
